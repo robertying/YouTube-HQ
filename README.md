@@ -1,3 +1,3 @@
 # YouTube HQ
 
-Automatically set YouTube video quality to the highest.
+Safari Extension to automatically set YouTube video quality to the highest.
